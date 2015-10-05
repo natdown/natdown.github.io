@@ -1,0 +1,10 @@
+.intro-message {
+	text-align: left;
+	padding-top: 10% ;
+	padding-bottom:19%;
+	color: #5E0CEC;
+}
+
+body {
+	background: url(cityBike.jpg) no-repeat center;
+}
