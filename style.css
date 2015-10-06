@@ -1,7 +1,7 @@
 .intro-message {
 	text-align: left;
 	padding-top: 10% ;
-	padding-bottom: 7%;
+	padding-bottom: 6%;
 	padding-left: ;
 	color: #925F5F;
 	font-family: "Bauhaus 93"
@@ -10,5 +10,7 @@
 body {
 	background: url(cityBike.jpg) no-repeat center;
 }
+p {font:54px;}
+
 .signup-form {color:#4F3C3C;}
 
